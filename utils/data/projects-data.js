@@ -2,7 +2,7 @@ export const projectsData = [
     {
         id: 1,
         name: 'Secure Site Audit',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
+        'by providing a complete, end-2-end Telecom Site Audit and Survey solution including mobile APP based data collection, secure data transmission to backend servers with a complete, WEB portal-based Project Management console to define / manage / track / report on status which provides consistant quality, at the right time, each time, every time.',
         tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
         role: 'Backend Developer',
         code: '',
