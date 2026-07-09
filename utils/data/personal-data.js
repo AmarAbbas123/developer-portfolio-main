@@ -11,7 +11,7 @@ facebook:'',
   linkedIn: 'https://www.linkedin.com/in/amar-abbas-68b5883b1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiBXcTuS8QmanCguuZeWJiw%3D%3D',
   twitter: '',
   stackOverflow: '',
-  leetcode: "",
+  leetcode: "https://leetcode.com/u/DyF0nsaYiJ/",
   devUsername: "amar7388",
   resume: "https://drive.google.com/file/d/1OnAIpUFuTsYGfbSpc8razzplthATl4_s/view?usp=sharing"
 }
