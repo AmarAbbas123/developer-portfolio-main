@@ -3,10 +3,10 @@ export const projectsData = [
         id: 1,
         name: 'Secure Site Audit',
         'by providing a complete, end-2-end Telecom Site Audit and Survey solution including mobile APP based data collection, secure data transmission to backend servers with a complete, WEB portal-based Project Management console to define / manage / track / report on status which provides consistant quality, at the right time, each time, every time.',
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
-        role: 'Backend Developer',
+        tools: ['Bootstrap ', "Laravel'],
+        role: 'Full Stack Developer',
         code: '',
-        demo: '',
+        demo: 'https://securesiteaudit.com/',
     },
     {
         id: 2,
