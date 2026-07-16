@@ -17,17 +17,9 @@ export const projectsData = [
         code: '',
         demo: '',
     },
+   
     {
         id: 3,
-        name: 'AI Powered Real Estate',
-        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-        tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
-        code: '',
-        role: 'Full Stack Developer',
-        demo: '',
-    },
-    {
-        id: 4,
         name: 'Designer Metals',
         description: 'I developed and customized a responsive WordPress website for Designer Metals using Elementor Pro, ensuring cross-device compatibility, optimized load speed, and a pixel-perfect implementation of the design mockups.',
         tools: ['WordPress', 'Elementor', 'CSS3', 'HTML5', 'Technical SEO'],
@@ -36,7 +28,7 @@ export const projectsData = [
         demo: 'https://designermetals.com/',
     },
     {
-        id: 5,
+        id: 4,
         name: 'Heather Harries',
         description: 'I built and customized a responsive WordPress site for Heather Harries using Elementor Pro, focused on clean design implementation, fast load times, and smooth cross-browser performance.',
         tools: ['WordPress', 'Elementor', 'CSS3', 'HTML5', 'Technical SEO'],
@@ -45,7 +37,7 @@ export const projectsData = [
         demo: 'https://heatherharries.com/',
     },
     {
-        id: 6,
+        id: 5,
         name: 'Christian Behr',
         description: 'I developed a custom WordPress website for Christian Behr, translating design mockups into a fully responsive, pixel-perfect site with optimized performance and SEO best practices.',
         tools: ['WordPress', 'Elementor', 'CSS3', 'HTML5', 'Technical SEO'],
@@ -54,7 +46,7 @@ export const projectsData = [
         demo: 'https://christianbehr.net/',
     },
     {
-        id: 7,
+        id: 6,
         name: 'Sunguard Designs',
         description: 'I built a responsive WooCommerce-powered WordPress store for Sunguard Designs, handling custom theme development, product catalog setup, and performance optimization for a smooth shopping experience.',
         tools: ['WordPress', 'WooCommerce', 'Elementor', 'CSS3', 'HTML5'],
@@ -63,7 +55,7 @@ export const projectsData = [
         demo: 'https://sunguarddesigns.com.au/',
     },
     {
-        id: 8,
+        id: 7,
         name: 'Camping Herzog',
         description: 'I developed a multilingual, responsive WordPress website for Camping Herzog, focusing on custom theme customization, cross-device compatibility, and optimized site speed.',
         tools: ['WordPress', 'Elementor', 'CSS3', 'HTML5', 'Technical SEO'],
@@ -72,7 +64,7 @@ export const projectsData = [
         demo: 'https://www.camping-herzog.de/',
     },
     {
-        id: 9,
+        id: 8,
         name: "Universal Women's Network",
         description: "I developed and maintained a responsive WordPress website for Universal Women's Network, implementing custom Elementor components and ensuring reliable performance across devices.",
         tools: ['WordPress', 'Elementor', 'CSS3', 'HTML5', 'Technical SEO'],
@@ -81,7 +73,7 @@ export const projectsData = [
         demo: 'https://universalwomensnetwork.com/',
     },
     {
-        id: 10,
+        id: 9,
         name: 'Lightblue Cod',
         description: 'I built a responsive WordPress site hosted on a custom Hostinger domain, using Elementor Pro for layout customization and ensuring optimized performance and mobile responsiveness.',
         tools: ['WordPress', 'Elementor', 'CSS3', 'HTML5'],
