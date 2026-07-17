@@ -15,9 +15,8 @@ export const projectsData = [
         tools: ['Laravel', 'Alpine.js', 'Tailwind CSS', 'MySQL', 'MediaPipe', 'Face-API.js', 'Stripe', 'ZegoCloud', 'PHP'],
         role: 'Full Stack Developer',
         code: '',
-        demo: '',
+        demo: 'https://justmy.health/',
     },
-   
     {
         id: 3,
         name: 'Designer Metals',
@@ -80,19 +79,5 @@ export const projectsData = [
         role: 'WordPress Developer',
         code: '',
         demo: 'https://lightblue-cod-112828.hostingersite.com/',
-    },
+    }
 ];
-
-
-// Do not remove any property.
-// Leave it blank instead as shown below
-
-// {
-//     id: 1,
-//     name: '',
-//     description: "",
-//     tools: [],
-//     role: '',
-//     code: '',
-//     demo: '',
-// },
