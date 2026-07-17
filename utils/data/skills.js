@@ -22,3 +22,4 @@ export const skillsData = [
   // Version Control & Tools
   'Git'
 ];
+export default skills;
