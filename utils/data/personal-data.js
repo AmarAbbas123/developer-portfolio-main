@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Rawalpindi, Pakistan ',
   github: 'https://github.com/AmarAbbas123',
 facebook:'',
-  linkedIn: 'https://www.linkedin.com/in/amar-abbas-68b5883b1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BiBXcTuS8QmanCguuZeWJiw%3D%3D',
+  linkedIn: 'https://www.linkedin.com/in/amar-abbas/',
   twitter: '',
   stackOverflow: '',
   leetcode: "https://leetcode.com/u/DyF0nsaYiJ/",
